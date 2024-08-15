@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karmakatoro" alt="karmakatoro" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on a C# .NET application optimized for sales in local boutiques in my region. Additionally, I’m improving my web development skills by learning new technologies based on artificial intelligence**
+- 🔭 **I’m currently working on a C# .NET application optimized for sales in local boutiques in my region. Additionally, I’m improving my web development skills by learning new technologies based on artificial intelligence**
 
 - 🌱 I’m currently learning **Laravel, React JS, Python**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on C# .NET projects optimized for retail environments, and I’m also interested in web development projects that incorporate AI technologies**
+- 👯 **I’m looking to collaborate on C# .NET projects optimized for retail environments, and I’m also interested in web development projects that incorporate AI technologies**
 
-- 🤝 I’m looking for help with **I’m looking for help with optimizing the sales features in my C# .NET application for local boutiques, and I’d also appreciate guidance on integrating AI technologies into my web development projects.**
+- 🤝 **I’m looking for help with optimizing the sales features in my C# .NET application for local boutiques, and I’d also appreciate guidance on integrating AI technologies into my web development projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/karmakatoro](github.com/karmakatoro)
 
